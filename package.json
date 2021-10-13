@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "test": "lerna run test --stream",
+    "update:version": "lerna version --no-push",
+    "update:version:push": "lerna version"
+  }
+}
