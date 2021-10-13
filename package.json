@@ -7,6 +7,10 @@
   "scripts": {
     "test": "lerna run test --stream",
     "update:version": "lerna version --no-push",
-    "update:version:push": "lerna version"
+    "new-version": "lerna version",
+    "diff": "lerna diff",
+    "test-app": "lerna run test --scope=app",
+    "test-1": "lerna run test --scope=package-1",
+    "test-2": "lerna run test --scope=package-2"
   }
 }
