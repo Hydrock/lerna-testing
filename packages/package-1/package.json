@@ -1,5 +1,5 @@
 {
-  "name": "package-1",
+  "name": "@hydrock/package-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "react": "^17.0.2"
-  }
+  },
+  "gitHead": "d3911880025a1188cc662632613a4abe78131318"
 }

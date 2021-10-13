@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "@hydrock/app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.2"
-  }
+  },
+  "gitHead": "d3911880025a1188cc662632613a4abe78131318"
 }

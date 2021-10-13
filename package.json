@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@hydrock/lerna-test",
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
