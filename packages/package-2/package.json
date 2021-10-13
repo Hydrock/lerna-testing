@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Echo from package-2\" && exit 0"
   },
@@ -11,5 +14,5 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "gitHead": "d3911880025a1188cc662632613a4abe78131318"
+  "gitHead": "84b0f222cc7c763b41aaa4723a28297ab1445872"
 }
